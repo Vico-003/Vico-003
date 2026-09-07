@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on a few things<br>
 🌱 I’m currently developing my coding knowledge<br>
-🌐Check-out : [Mon Portfolio]([(https://portfolio-personnel-victor.netlify.app/)]// "Mon Portfolio")
+🌐Check-out : [Mon Portfolio](https://portfolio-personnel-victor.netlify.app/ "Mon Portfolio")
 
 
 ### 🌐 Socials:
