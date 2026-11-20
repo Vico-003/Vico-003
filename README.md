@@ -19,5 +19,4 @@
 
 ## 📫 Me contacter
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.oliveiravictor@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON-LIEN)
