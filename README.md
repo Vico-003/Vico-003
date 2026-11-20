@@ -15,8 +15,6 @@
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-*(garde uniquement ce que tu pratiques vraiment)*
-
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON-LIEN)
