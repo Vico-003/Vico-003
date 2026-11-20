@@ -5,12 +5,6 @@
   Passionné par l'infrastructure et la cybersécurité
 </p>
 
-<p align="center">
-  <a href="https://portfolio-personnel-victor.netlify.app/">🌐 Portfolio</a> •
-  <a href="mailto:contact.oliveiravictor@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/TON-LIEN">💼 LinkedIn</a>
-</p>
-
 ---
 
 ## 💫 À propos
