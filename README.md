@@ -5,8 +5,8 @@
 ## 💫 À propos
 
 🔭 En ce moment, je travaille sur : **[ex. mon home lab / un projet précis]**
-🌱 J'apprends : **[ex. Linux, pfSense, Active Directory, Wireshark...]**
-🛡️ Je m'entraîne sur : **[ex. TryHackMe, HackTheBox, root-me]**
+🌱 J'apprends : **[ex. Linux, pfSense, Active Directory, Wireshark]**
+🛡️ Je m'entraîne sur : **[ex. TryHackMe, HackTheBox]**
 🌐 Mon portfolio : [portfolio-personnel-victor.netlify.app](https://portfolio-personnel-victor.netlify.app/)
 
 ## 🛠️ Compétences
